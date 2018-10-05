@@ -1,0 +1,27 @@
+---
+layout: page
+---
+
+<div class="row">
+  <div class="col-md-8 center-block">
+    <div class="page-heading">
+      <h1 class="text-center">{{ page.heading }}</h1>
+    </div>
+    {% unless page.category == "blog" %}
+    <div class="card card-secondary">
+      {{ content }}
+    </div>
+    {% endunless %}
+    {% if page.category == "blog" %}
+    <!--<a href="/blog">All Topics</a> | <a href="#">Tire Tips</a> | <a href="#">Company News</a> | <a href="#">Events</a>-->
+    {% for post in site.posts %}
+    <div class="card card-secondary">
+      <h1 class="card-heading"><a href="{{ post.url }}">{{ post.title }}</a></h1>
+      <p>{% if post.category %}{{ post.category }} | {% endif %}{{ post.date | date: "%B %-d, %Y" }}</p>
+      <p>{{ post.content | truncate: 250 }}</p>
+      <a class="btn btn-primary" href="{{ post.url }}">Read more</a>
+    </div>
+    {% endfor %}
+    {% endif %}
+  </div>
+</div>

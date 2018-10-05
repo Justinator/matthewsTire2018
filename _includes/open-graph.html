@@ -1,0 +1,36 @@
+<!-- Twitter Cards -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="{{ site.twitter }}">
+{% if page.heading %}
+<meta name="twitter:title" content="{{ page.heading }}">
+{% else %}
+<meta name="twitter:title" content="{{ page.title }}">
+{% endif %}
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description }}">
+{% else %}
+<meta name="twitter:description" content="{{ page.excerpt | strip_html | truncate: 200 }}">
+{% endif %}
+{% if page.social-image %}
+<meta name="twitter:image" content="{{ site.url }}/img/{{ page.social-image }}">
+{% endif %}
+
+<!-- Open Graph -->
+{% if page.heading %}
+<meta property="og:title" content="{{ page.heading }}">
+{% else %}
+<meta property="og:title" content="{{ page.title }}">
+{% endif %}
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:url" content="{{ site.url }}{{ page.url }}">
+{% if page.description %}
+<meta property="og:description" content="{{ page.description }}">
+{% else %}
+<meta property="og:description" content="{{ page.excerpt | strip_html | truncate: 200}}">
+{% endif %}
+{% if page.social-image %}
+<meta property="og:image" content="{{ site.url }}/img/{{ page.social-image }}">
+{% else %}
+<meta property="og:image" content="{{ site.url }}/img/matthews-tire-logo.png">
+{% endif %}

@@ -1,0 +1,80 @@
+- name: General Service
+  description:
+    - "Domestic & import vehicles"
+    - "Diesel and hybrid vehicles"
+    - "Autos, light trucks, vans & motor homes"
+    - "Commercial & national accounts welcome"
+    - "Lube, oil & filter changes"
+    - "Flat repairs"
+    - "Lifetime wheel balance"
+    - "Scheduled maintenance service"
+    - "Custom wheels"
+
+- name: Windshield Replacement
+  description:
+    - "Detailed inspection"
+    - "Repair of minor cracks"
+    - "Full windshield removal & installation"
+    - "Auto Glass Replacement Safety Standard (AGRSS) procedures"
+    - "Certified technicians"
+
+- name: Drive Train
+  description:
+    - "Automatic & manual transmission service"
+    - "Bearings replaced & repacked"
+    - "Constant velocity (CV) joint service, CV boots & joints"
+    - "4x4 service, transfer case, hub & differential"
+    - "Transmission flush service"
+
+- name: Brakes
+  description:
+    - "All brake related repairs"
+    - "Disc & drum"
+    - "4-wheel disc"
+    - "ABS (antilock) diagnosis & repair"
+
+- name: Engine
+  description:
+    - "Tune-up/engine analysis"
+    - "Oil & water leaks diagnosis & repair"
+    - "Complete engine overhaul"
+    - "Emissions testing & repair"
+    - "Steam cleaning"
+
+- name: Exhaust
+  description:
+    - "Complete exhaust system repair"
+    - "Lifetime warranty mufflers"
+    - "Catalytic converters"
+
+- name: Suspension
+  description:
+    - "4-wheel alignment with Hunter equipment"
+    - "McPherson struts & shocks"
+    - "Bearings replaced & repacked"
+    - "Variable rate coil & leaf springs"
+    - "Suspension service"
+    - "Rack & pinion service"
+    - "Ride control experts"
+
+- name: Electrical
+  description:
+    - "Full line of heavy duty batteries"
+    - "Engine: Starters, alternators & air conditioners"
+    - "Power windows, seats & tail lights"
+    - "Full line of heavy duty batteries"
+
+- name: Engine Cooling
+  description:
+    - "Diagnosis & repair"
+    - "Radiator repair"
+    - "Belts & hoses"
+    - "Power flushing"
+    - "Complete heating & cooling diagnosis"
+
+- name: Air Conditioning and Heating
+  description:
+    - "State certified"
+    - "Recharging & recycling"
+    - "Minor & major repairs"
+    - "Retrofit available"

@@ -1,0 +1,51 @@
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <meta name="viewport" content="width=device-width">
+  
+  <title>{% if page.title %}{{ page.title}} | {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description }}">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+  <link rel="stylesheet" href="/css/main.css">
+
+  <!-- Icons -->
+  <link href="/img/favicon.ico" rel="shortcut icon">
+
+  <!-- Typekit -->
+  <script src="//use.typekit.net/ghx0jgk.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+
+  <!-- Google Maps -->
+  <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
+  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.1.min.js"></script>
+
+  <!-- Google Analytics -->
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-13074741-3', 'auto');
+    ga('send', 'pageview');
+
+  </script>
+
+  <script>
+  var shiftWindow = function() { scrollBy(0, -55) };
+  function load() { if (window.location.hash) shiftWindow(); }
+  </script>
+
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries, part of Bootstrap base template -->
+  <!--[if lt IE 9]>
+    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+
+  {% include open-graph.html %}
+
+</head>

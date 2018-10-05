@@ -1,0 +1,37 @@
+{% for location in site.data.locations %}
+<div class="col-md-4 col-sm-6 col-xs-12">
+  <div class="card card-secondary">
+    <div class="card-header">
+      <h1>{{ location.name }}</h1>
+    </div>
+    <div class="row">
+      <p><div class="col-xs-2"><i class="fa fa-phone"></i></div>
+      <div class="col-xs-10">{{ location.phone }}</div></p>
+    </div>
+    <div class="row">
+      <p><div class="col-xs-2"><i class="fa fa-map-marker"></i></div>
+      <div class="col-xs-10">
+        <a href="{{ location.googlemaps }}" target="_blank">
+          {{ location.street }}<br>
+          {{ location.city }}, {{ location.state }} {{ location.zip }}
+        </a>
+      </div></p>
+    </div>
+    <table class="table">
+      {% for hour in location.hours %}
+      <tr><td>{{ hour.day }}</td><td>{{ hour.time }}</td></tr>
+      {% endfor %}
+    </table>
+    {% if location.note %}
+      <p class="small">{{ location.note }}</p>
+    {% endif %}
+    <div class="card-footer">
+      <a href="{{ location.link }}" class="btn btn-primary">Make an Appointment</a>
+      {% if location.shopcritics %}
+      <br><br>
+      <a href="{{ location.shopcritics }}" class="btn btn-secondary" target="_blank">Customer Reviews</a>
+      {% endif %}
+    </div>
+  </div>
+</div>
+{% endfor %}

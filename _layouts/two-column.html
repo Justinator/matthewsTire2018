@@ -1,0 +1,34 @@
+---
+layout: page
+---
+
+<div class="row">
+  <div class="col-md-12">
+    <h1>{{ page.heading }}</h1>
+  </div>
+  <div class="col-md-8">
+    <div class="card">
+      {{ content }}
+    </div>
+    {% include partners.html %}
+  </div>
+  {% if page.category != "services" %}
+  <div class="col-md-4">
+    {% if page.category == "tires" %}
+      <a href="http://www.thegoodyearcreditcard.com/index.html?gyID=90931" target="_blank"><img src="/img/Homepage-Banners-v1.jpg"></a>
+    {% endif %}
+    {% if page.category == "promotions" %}
+      <a href="http://www.thegoodyearcreditcard.com/index.html?gyID=90931" target="_blank"><img src="/img/Homepage-Banners-v1.jpg"></a>
+    {% endif %}
+    <div class="hidden-print">
+      {% for image in page.images %}
+      <img src="/img/{{ image }}">
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+
+  {% if page.category == "services" %}
+  {% include services.html %}
+  {% endif %}
+</div>

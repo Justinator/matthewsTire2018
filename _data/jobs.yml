@@ -1,0 +1,31 @@
+- name: Store Manager
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=958403
+  location:
+
+- name: Service Manager
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=958397
+  location:
+
+- name: Sales Associate
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=958407
+  location:
+
+- name: Auto Tech
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=958390
+  location:
+
+- name: Alignment Specialist
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=958386
+  location:
+
+- name: General Maintenance Tech
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=958410
+  location:
+
+- name: General Service Tech
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=958417
+  location:
+
+- name: Commercial Tire Tech
+  link: https://www.appone.com/MainInfoReq.asp?R_ID=1032962
+  location:

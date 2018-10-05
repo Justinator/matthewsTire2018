@@ -1,0 +1,98 @@
+- name: Appleton East
+  phone: 920-730-2199
+  street: W3092 Van Roy Rd.
+  city: Appleton
+  state: WI
+  googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.2461994,-88.4106301,13z/data=!4m5!1m2!2m1!1smatthews+tire+appleton+east!3m1!1s0x0000000000000000:0xb7b7a8aabf8a42be"
+  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireAppletonEast"
+  hours:
+    - day: Mon.-Fri.
+      time: 6:30am - 7:00pm
+    - day: Sat.
+      time: 8:00am - 1:00pm
+  link: /locations/appleton-east
+
+- name: Appleton West
+  phone: 920-734-5701
+  street: 2930 W. College Ave.
+  city: Appleton
+  state: WI
+  googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.262517,-88.451429,15z/data=!4m2!3m1!1s0x0:0xb42df95f333dd8a9"
+  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireAppletonWest"
+  hours:
+    - day: Mon.-Fri.
+      time: 6:30am - 7:00pm
+    - day: Sat.
+      time: 8:00am - 1:00pm
+  link: /locations/appleton-west
+
+- name: Fond du Lac
+  phone: 920-921-6261
+  street: 562 W. Johnson St.
+  city: Fond du Lac
+  state: WI
+  googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@43.784073,-88.468365,15z/data=!4m2!3m1!1s0x0:0x728177ce17a90725"
+  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireFondDuLac"
+  hours:
+    - day: Mon.-Fri.
+      time: 7:00am - 6:00pm
+    - day: Sat.
+      time: 7:00am - Noon
+  link: /locations/fond-du-lac
+
+- name: Green Bay
+  phone: 920-498-1458
+  street: 2717 S. Oneida St.
+  city: Green Bay
+  state: WI
+  googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.476455,-88.073419,15z/data=!4m2!3m1!1s0x0:0x94b28246792557f8"
+  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireGreenBay"
+  hours:
+    - day: Mon.-Fri.
+      time: 7:00am - 6:00pm
+    - day: Sat.
+      time: 8:00am - 1:00pm
+  link: /locations/green-bay
+
+- name: Menasha
+  phone: 920-727-9901
+  street: 1690 Appleton Rd.
+  city: Menasha
+  state: WI
+  note: Zero clearance facility to accomodate low ground cars.
+  googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.232585,-88.424716,17z/data=!3m1!4b1!4m2!3m1!1s0x0000000000000000:0x2f4f723b1a39619c"
+  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireMenasha"
+  hours:
+    - day: Mon.-Fri.
+      time: 7:00am - 6:00pm
+    - day: Sat.
+      time: 8:00am - 1:00pm
+  link: /locations/menasha
+
+- name: Waupaca
+  phone: 715-258-0288
+  street: 111 W. Union St.
+  city: Waupaca
+  state: WI
+  note: Zero clearance facility to accomodate low ground cars.
+  googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.356889,-89.085667,15z/data=!4m2!3m1!1s0x0:0x30bd6858e9f3d2b2"
+  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireWaupaca"
+  hours:
+    - day: Mon.-Fri.
+      time: 7:00am - 6:00pm
+    - day: Sat.
+      time: 8:00am - Noon
+  link: /locations/waupaca
+
+- name: Commercial
+  phone: 920-735-0162
+  street: 600 N. Bluemound Dr.
+  city: Appleton
+  state: WI
+  googlemaps: "https://www.google.com/maps/place/Matthews+Tire+%E2%80%93+Commercial+Tire+Center/@44.2678744,-88.4555461,18z/data=!4m7!1m4!3m3!1s0x8803b7b7303f6613:0xece84b6eaa3e8cfe!2s600+N+Bluemound+Dr,+Appleton,+WI+54914!3b1!3m1!1s0x0000000000000000:0x5070eda600ae166d"
+  hours:
+    - day: Mon.-Fri.
+      time: 7:00am - 5:00pm
+    - day: Sat.
+      time: 8:00am - Noon
+  link: /contact

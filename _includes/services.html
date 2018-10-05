@@ -1,0 +1,21 @@
+<div class="col-md-8">
+  {% for service in site.data.services %}
+  <div class="card card-secondary" id="{{ service.name | downcase | replace: " ", "-" }}">
+    <h2>{{ service.name }}</h2>
+    <ul>
+      {% for description in service.description %}
+      <li>{{ description }}</li>
+      {% endfor %}
+    </ul>
+  </div>
+  {% endfor %}
+</div>
+<div class="col-md-4">
+  <div id="nav-sidebar" class="nav-sidebar hidden-sm hidden-xs">
+    <ul class="nav nav-pills nav-stacked">
+      {% for service in site.data.services %}
+      <li><a href="#{{ service.name | downcase | replace: " ", "-" }}">{{ service.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</div>

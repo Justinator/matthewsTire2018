@@ -1,0 +1,53 @@
+<div id="map" style="width: 100%; height: 400px; z-index: 1;"><div class="jumbotron jumbotron-locations"></div></div>
+
+  <script type="text/javascript">
+    var locations = [
+      ['<b>Matthews Tire Commercial</b><br><a href="https://www.google.com/maps/place/Matthews+Tire+%E2%80%93+Commercial+Tire+Center/@44.2678744,-88.4555461,18z/data=!4m7!1m4!3m3!1s0x8803b7b7303f6613:0xece84b6eaa3e8cfe!2s600+N+Bluemound+Dr,+Appleton,+WI+54914!3b1!3m1!1s0x0000000000000000:0x5070eda600ae166d">600 N. Bluemound Dr.<br>Appleton, WI</a><br><br><a href="tel:+19207350162">920-735-0162</a>', 44.26789, -88.45546, 7],
+      ['<b>Matthews Tire Waupaca</b><br><a href="https://www.google.com/maps/place/Matthews+Tire/@44.356889,-89.085667,15z/data=!4m2!3m1!1s0x0:0x30bd6858e9f3d2b2">111 W. Union St.<br>Waupaca, WI</a><br><br><a href="tel:+17152580288">920-258-0288</a>', 44.35685, -89.08580, 6],
+      ['<b>Matthews Tire Menasha</b><br><a href="https://www.google.com/maps/place/Matthews+Tire/@44.232585,-88.424716,17z/data=!3m1!4b1!4m2!3m1!1s0x0000000000000000:0x2f4f723b1a39619c">1690 Appleton Rd.<br>Menasha, WI</a><br><br><a href="tel:+19207279901">920-727-9901</a>', 44.23258, -88.42467, 5],
+      ['<b>Matthews Tire Green Bay</b><br><a href="https://www.google.com/maps/place/Matthews+Tire/@44.476455,-88.073419,15z/data=!4m2!3m1!1s0x0:0x94b28246792557f8">2717 S. Oneida St.<br>Green Bay, WI</a><br><br><a href="tel:+19204981458">920-498-1458</a>', 44.47646, -88.07342, 4],
+      ['<b>Matthews Tire Fond du Lac</b><br><a href="https://www.google.com/maps/place/Matthews+Tire/@43.784073,-88.468365,15z/data=!4m2!3m1!1s0x0:0x728177ce17a90725">562 W. Johnson St.<br>Fond du Lac, WI</a><br><br><a href="tel:+19209216261">920-921-6261</a>', 43.78406, -88.46834, 3],
+      ['<b>Matthews Tire Appleton West</b><br><a href="https://www.google.com/maps/place/Matthews+Tire/@44.262517,-88.451429,15z/data=!4m2!3m1!1s0x0:0xb42df95f333dd8a9">2930 W. College Ave.<br>Appleton, WI</a><br><br><a href="tel:+19207345701">920-734-5701</a>', 44.26244, -88.45145, 2],
+      ['<b>Matthews Tire Appleton East</b><br><a href="https://www.google.com/maps/place/Matthews+Tire/@44.2461994,-88.4106301,13z/data=!4m5!1m2!2m1!1smatthews+tire+appleton+east!3m1!1s0x0000000000000000:0xb7b7a8aabf8a42be">W3092 Van Roy Rd.<br>Appleton, WI</a><br><br><a href="tel:+19207302199">920-730-2199</a>', 44.25724, -88.34251, 1]
+    ];
+
+    var map = new google.maps.Map(document.getElementById('map'), {
+      zoom: 10,
+      center: new google.maps.LatLng(-39.92, 151.25),
+      mapTypeId: google.maps.MapTypeId.ROADMAP
+    });
+
+    var infowindow = new google.maps.InfoWindow();
+
+    var marker, i;
+    var markers = new Array();
+
+    for (i = 0; i < locations.length; i++) {
+      marker = new google.maps.Marker({
+        position: new google.maps.LatLng(locations[i][1], locations[i][2]),
+        map: map
+      });
+
+      markers.push(marker);
+
+      google.maps.event.addListener(marker, 'click', (function(marker, i) {
+        return function() {
+          infowindow.setContent(locations[i][0]);
+          infowindow.open(map, marker);
+        }
+      })(marker, i));
+    }
+
+    function AutoCenter() {
+      //  Create a new viewpoint bound
+      var bounds = new google.maps.LatLngBounds();
+      //  Go through each...
+      $.each(markers, function (index, marker) {
+      bounds.extend(marker.position);
+      });
+      //  Fit these bounds to the map
+      map.fitBounds(bounds);
+    }
+    AutoCenter();
+
+  </script>

@@ -1,0 +1,7 @@
+title: Matthews Tire
+url: http://matthewstire.com
+twitter: "@MatthewsTire"
+markdown: kramdown
+permalink: /:categories/:title.html
+collections:
+  - managers
