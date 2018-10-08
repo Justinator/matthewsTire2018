@@ -2,14 +2,14 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=Edge">
   <meta name="viewport" content="width=device-width">
-  
+
   <title>{% if page.title %}{{ page.title}} | {% endif %}{{ site.title }}</title>
   <meta name="description" content="{{ page.description }}">
 
   <!-- Styles -->
   <link rel="stylesheet" href="/css/bootstrap.min.css">
   <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-  <link href='http://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
+  <link href='https://fonts.googleapis.com/css?family=Oswald' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="/css/main.css">
 
   <!-- Icons -->
@@ -20,8 +20,10 @@
   <script>try{Typekit.load();}catch(e){}</script>
 
   <!-- Google Maps -->
-  <script src="http://maps.google.com/maps/api/js?sensor=false"></script>
-  <script src="http://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.1.min.js"></script>
+  <!--<script src="https://maps.google.com/maps/api/js?sensor=false"></script>-->
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAuwEn3bVig6g-EMQsN-Ef7QQ3pL1rNRxA&callback=initMap"
+  type="text/javascript"></script>
+  <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-1.10.1.min.js"></script>
 
   <!-- Google Analytics -->
   <script>

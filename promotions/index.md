@@ -13,7 +13,7 @@ images:
 Matthews Tire™ is pleased to offer our customers coupons, monthly specials and frequent rebates. Check our website, “like” us on [Facebook](https://www.facebook.com/matthewstire) and check this promotions page often to stay updated on our current offers. Let us help you at 1 of our 6 retail [locations](/locations).
 {: .hidden-print}
 
-Also, don’t forget to apply for a [Goodyear credit card](http://www.thegoodyearcreditcard.com/index.html?gyID=90931) and get special offers just for cardholders!
+Also, don’t forget to apply for a <a href="http://www.thegoodyearcreditcard.com/index.html?gyID=90931" target="\_blank">Goodyear credit card</a> and get special offers just for cardholders!
 {: .hidden-print}
 
 <!-- This script loads a hidden iframe of the coupons so when print this page button is clicked on only the coupons will print -->
