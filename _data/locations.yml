@@ -4,7 +4,7 @@
   city: Appleton
   state: WI
   googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.2461994,-88.4106301,13z/data=!4m5!1m2!2m1!1smatthews+tire+appleton+east!3m1!1s0x0000000000000000:0xb7b7a8aabf8a42be"
-  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireAppletonEast"
+  shopcritics: "https://www.theshopcritics.com/info/MatthewsTireAppletonEast"
   hours:
     - day: Mon.-Fri.
       time: 6:30am - 7:00pm
@@ -18,7 +18,7 @@
   city: Appleton
   state: WI
   googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.262517,-88.451429,15z/data=!4m2!3m1!1s0x0:0xb42df95f333dd8a9"
-  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireAppletonWest"
+  shopcritics: "https://www.theshopcritics.com/info/MatthewsTireAppletonWest"
   hours:
     - day: Mon.-Fri.
       time: 6:30am - 7:00pm
@@ -32,7 +32,7 @@
   city: Fond du Lac
   state: WI
   googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@43.784073,-88.468365,15z/data=!4m2!3m1!1s0x0:0x728177ce17a90725"
-  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireFondDuLac"
+  shopcritics: "https://www.theshopcritics.com/info/MatthewsTireFondDuLac"
   hours:
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
@@ -46,7 +46,7 @@
   city: Green Bay
   state: WI
   googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.476455,-88.073419,15z/data=!4m2!3m1!1s0x0:0x94b28246792557f8"
-  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireGreenBay"
+  shopcritics: "https://www.theshopcritics.com/info/MatthewsTireGreenBay"
   hours:
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
@@ -61,7 +61,7 @@
   state: WI
   note: Zero clearance facility to accomodate low ground cars.
   googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.232585,-88.424716,17z/data=!3m1!4b1!4m2!3m1!1s0x0000000000000000:0x2f4f723b1a39619c"
-  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireMenasha"
+  shopcritics: "https://www.theshopcritics.com/info/MatthewsTireMenasha"
   hours:
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
@@ -76,7 +76,7 @@
   state: WI
   note: Zero clearance facility to accomodate low ground cars.
   googlemaps: "https://www.google.com/maps/place/Matthews+Tire/@44.356889,-89.085667,15z/data=!4m2!3m1!1s0x0:0x30bd6858e9f3d2b2"
-  shopcritics: "http://www.theshopcritics.com/info/MatthewsTireWaupaca"
+  shopcritics: "https://www.theshopcritics.com/info/MatthewsTireWaupaca"
   hours:
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
