@@ -50,7 +50,7 @@ Matthews Tire also offers 24-hour emergency service. Count on usâ€”day or nightâ
 
 ---
 
-We accept all major credit cards, Comchek, Wright Express fleet cards and [Goodyear credit cards](http://www.accountonline.com/ACQ/RPL/Web/Apply?app=UNSOL&amp;sc=07000&amp;siteId=PLCN_GOODYEAR&amp;langId=EN).
+We accept all major credit cards, Comchek, Wright Express fleet cards and [Goodyear credit cards](https://www.accountonline.com/ACQ/RPL/Web/Apply?app=UNSOL&amp;sc=07000&amp;siteId=PLCN_GOODYEAR&amp;langId=EN).
 
 <img src="/img/credit-cards.jpg" style="max-width: 390px">
 
