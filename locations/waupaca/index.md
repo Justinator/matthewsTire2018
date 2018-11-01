@@ -18,9 +18,7 @@ Sat. 8 a.m. – noon
 111 W. Union St. <br>
 Waupaca, WI 54981
 
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=44.356889,-89.0878557&zoom=13&size=710x350&maptype=roadmap
-&markers=color:blue%7C44.356889,-89.0878557&markers=size:tiny
-&key=AIzaSyBOKn5Ays6ldfi-y4UE6a3o_i0ZPs8uRNc">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11410.863227951839!2d-89.085667!3d44.356889!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x30bd6858e9f3d2b2!2sMatthews+Tire!5e0!3m2!1sen!2sus!4v1541094484670" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 The Waupaca Matthews Tire store supports local little league teams and Waupaca High School sports with Matthews Tire private label bottled water donations. The school has raised over $7500 by reselling the donated water at sporting events! Additionally, through Matthews Tire’s twice annual *Oil Change for the Better* event, the Waupaca store has supported many local charities including Old Glory Honor Flight, Make-A-Wish Foundation and Walleyes for Kids.
 
