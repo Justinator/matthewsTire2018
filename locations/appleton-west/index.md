@@ -18,9 +18,7 @@ Sat. 8 a.m. – 1 p.m.
 2930 W. College Ave. <br>
 Appleton, WI 54914
 
-<img src="https://maps.googleapis.com/maps/api/staticmap?center=44.2625056,-88.4519835&zoom=13&size=710x350&maptype=roadmap
-&markers=color:blue%7C44.2625056,-88.4519835&markers=size:tiny
-&key=AIzaSyBOKn5Ays6ldfi-y4UE6a3o_i0ZPs8uRNc">
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d11429.22534193169!2d-88.451429!3d44.262517!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb42df95f333dd8a9!2sMatthews+Tire!5e0!3m2!1sen!2sus!4v1541094275965" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 The Appleton West Matthews Tire store enjoys a close relationship with Xavier, Appleton West, Fox Valley Lutheran and other area high schools. In addition, the location supplies bottled water and supports local sports teams such as Legion and Grand Chute baseball and other area sports teams. Through Matthews Tire’s twice annual *Oil Change for the Better* event, the Appleton West store has supported many local charities including Childcare Resource & Referral, the Leukemia & Lymphoma Society and Saving Paws Animal Rescue.
 
