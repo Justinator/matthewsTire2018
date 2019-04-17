@@ -710,4 +710,15 @@ footer a:hover {
 .heroButton{
   border-top-left-radius: .5rem !important;
   border-top-right-radius: .5rem !important;
+  width: 100%;
+}
+.buttonWrap{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+@media (max-width: 600px){
+  .buttonWrap{
+    flex-direction: column-reverse;
+  }
 }
