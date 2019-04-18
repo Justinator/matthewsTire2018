@@ -711,14 +711,23 @@ footer a:hover {
   border-top-left-radius: .5rem !important;
   border-top-right-radius: .5rem !important;
   width: 100%;
+  margin: 10px 0 0 0;
 }
 .buttonWrap{
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-around;
+}
+@media (max-width: 768px){
+  .buttonWrap{
+    display: none;
+  }
 }
 @media (max-width: 600px){
   .buttonWrap{
     flex-direction: column-reverse;
   }
+}
+#matthewsLocations .col-md-4:nth-child(8) #quoteButton{
+  display: none !important;
 }

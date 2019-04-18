@@ -6,7 +6,7 @@ description: Matthews Tire™ is the Fox River Valley’s best source for tires 
 ---
 
 <article>
-  <div class="container">
+  <div class="container" id="matthewsLocations">
     <h1 class="text-center">Matthews Tire Locations</h1>
     {% include locations-loop.html %}
   </div>

@@ -26,7 +26,9 @@
       <p class="small">{{ location.note }}</p>
     {% endif %}
     <div class="card-footer">
-      <a href="{{ location.link }}" class="btn btn-primary">Make an Appointment</a>
+      <a href="{{ location.link }}#quoteForm" class="btn btn-primary" id="quoteButton">Service Quote</a>
+      <br><br>
+      <a href="{{ location.link }}#formAnchor1724839519" class="btn btn-primary">Make an Appointment</a>
       {% if location.shopcritics %}
       <br><br>
       <a href="{{ location.shopcritics }}" class="btn btn-secondary" target="_blank">Customer Reviews</a>
