@@ -9,6 +9,7 @@ category:
 Summer is just around the corner! School will be out, temperatures will rise and more bike, pedestrian and motorcycle traffic will hit the roads and crosswalks. Whether you’re an avid cyclist, runner or driver, it’s important that everyone knows the rules and best practices to share the road together.   
 
 **Bike Safety**
+
 According to the National Highway Traffic Safety Administration (NHTSA), there were 818 bicyclists killed in 2015—a 12% increase from 2014—and an estimated 45,000 injured in traffic crashes in the U.S. No matter if you’re a cycling enthusiast or driver, brake for a moment to learn more about how to share the road with bicycles.
 
 * Depending on time of day and weather, bikes can be hard to spot and require drivers’ full attention. Your distracted driving (fiddling with a device, radio, eating, etc.) could cost a cyclist their life.
@@ -19,6 +20,7 @@ According to the National Highway Traffic Safety Administration (NHTSA), there w
 **_For cyclists:_** Stick to sidewalks, bike lanes and crosswalks, and ride the same direction as traffic when on the road. Sport reflective gear and always wear a properly fitted helmet!
 
 **Motorcycle Safety**
+
 The NHTSA reports motorcyclists accounted for nearly 14% of all traffic fatalities in 2015, while motorcycles make up just 3% of all registered vehicles in the U.S. Get up to speed on safety tips to share the road with motorcycles.
 
 * When you spot a motorcyclist weaving, they aren’t showing off. They are trying to be seen!
@@ -30,6 +32,7 @@ The NHTSA reports motorcyclists accounted for nearly 14% of all traffic fataliti
 **_For motorcyclists:_** Always drive with a DOT-compliant helmet, reflective gear and current motorcycle license. Also, never drive while impaired!
 
 **Pedestrian Safety**
+
 Per the NHTSA, there were 5,987 pedestrians killed in 2016 traffic crashes in the U.S. equating to a death every 1.5 hours (a 9% increase from the previous year). Here are some important tips to share the road with those traveling on foot.
 
 * Drive sober! Per the NHTSA, 13% of all fatal pedestrian crashes involved a driver with a BAC of .08 g/dL or higher.
