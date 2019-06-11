@@ -2,10 +2,10 @@
   description: $25 off any service over $200 at all Matthews Tire locations.
   disclaimer: Most vehicles. Some restrictions apply. See store for details. Excludes tires. No commercial accounts.
 
-- title: CHANGE IS GOOD! OIL, LUBE & FILTER
-  description: Lube (where applicable), new filter, up to 5 quarts brand name oils (brands vary). Special diesel oil and filter extra.
-  amount: $23.95
-  disclaimer: Most vehicles. Some restrictions apply. See store for details. Excludes tires. No commercial accounts.
+- title: CHANGE IS GOOD!
+  description: Full service oil change. Includes new oil filter.
+  amount: Get $5.00 off
+  disclaimer: Most vehicles. Some restrictions apply. See store for details. No commercial accounts.
 
 ##- title: Lead promotion
   ##lead: true
