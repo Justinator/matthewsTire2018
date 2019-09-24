@@ -22,9 +22,6 @@ Appleton, WI
   <tr>
     <td>Mon – Fri</td><td>7 a.m. – 5 p.m.</td>
   </tr>
-  <tr>
-    <td>Sat</td><td>8 a.m. – noon</td>
-  </tr>
 </table>
 
 ---

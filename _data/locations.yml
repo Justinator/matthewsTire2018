@@ -93,6 +93,4 @@
   hours:
     - day: Mon.-Fri.
       time: 7:00am - 5:00pm
-    - day: Sat.
-      time: 8:00am - Noon
   link: /contact
