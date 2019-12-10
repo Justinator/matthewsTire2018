@@ -9,10 +9,6 @@ images:
   - commercial-3.jpg
 ---
 
-## 24-Hour Emergency Service  
-
-(920) 735-0162
-
 600 N. Bluemound Dr.  
 Appleton, WI
 
@@ -26,9 +22,7 @@ Appleton, WI
 
 ---
 
-Matthews Tire™ is proud to provide the finest tires and service for commercial vehicles. In Appleton since 1952, we provide tire expertise, value and convenience to independent truckers, companies, fleets and municipalities. Contact us for all types of truck, farm and OTR commercial vehicles.
-
-Matthews Tire also offers 24-hour emergency service. Count on us—day or night—for all your commercial tire concerns and solutions. We’ll keep you rolling!
+Matthews Tire™ is proud to provide the finest tires and service for commercial vehicles. In Appleton since 1952, we provide tire expertise, value and convenience to independent truckers, companies, fleets and municipalities. Contact us for all types of truck, farm and OTR commercial vehicles. We’ll keep you rolling!
 
 * New tires—all major brands
 * National account service
