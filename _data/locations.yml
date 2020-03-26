@@ -7,9 +7,9 @@
   shopcritics: "https://www.theshopcritics.com/info/MatthewsTireAppletonEast"
   hours:
     - day: Mon.-Fri.
-      time: 6:30am - 7:00pm
+      time: 6:30am - 6:00pm
     - day: Sat.
-      time: 8:00am - 1:00pm
+      time: 7:00am - Noon
   link: /locations/appleton-east
 
 - name: Appleton West
@@ -21,9 +21,9 @@
   shopcritics: "https://www.theshopcritics.com/info/MatthewsTireAppletonWest"
   hours:
     - day: Mon.-Fri.
-      time: 6:30am - 7:00pm
+      time: 6:30am - 6:00pm
     - day: Sat.
-      time: 8:00am - 1:00pm
+      time: 7:00am - Noon
   link: /locations/appleton-west
 
 - name: Fond du Lac
@@ -51,7 +51,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: 8:00am - 1:00pm
+      time: Closed
   link: /locations/green-bay
 
 - name: Menasha
@@ -66,7 +66,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: 8:00am - 1:00pm
+      time: Closed
   link: /locations/menasha
 
 - name: Waupaca
@@ -81,7 +81,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: 8:00am - Noon
+      time: Closed
   link: /locations/waupaca
 
 - name: Commercial
