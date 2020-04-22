@@ -9,7 +9,7 @@
     - day: Mon.-Fri.
       time: 6:30am - 6:00pm
     - day: Sat.
-      time: 7:00am - Noon
+      time: Closed
   link: /locations/appleton-east
 
 - name: Appleton West
@@ -23,7 +23,7 @@
     - day: Mon.-Fri.
       time: 6:30am - 6:00pm
     - day: Sat.
-      time: 7:00am - Noon
+      time: Closed
   link: /locations/appleton-west
 
 - name: Fond du Lac
@@ -37,7 +37,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: 7:00am - Noon
+      time: Closed
   link: /locations/fond-du-lac
 
 - name: Green Bay

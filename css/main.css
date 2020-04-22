@@ -732,3 +732,6 @@ footer a:hover {
 #matthewsLocations .col-md-4:nth-child(8) #quoteButton{
   display: none !important;
 }
+.heading-large {
+  font-size: 2.25rem;
+}
