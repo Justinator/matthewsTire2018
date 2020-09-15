@@ -9,7 +9,7 @@
     - day: Mon.-Fri.
       time: 6:30am - 6:00pm
     - day: Sat.
-      time: Closed
+      time: 7:00am - 12:00pm
   link: /locations/appleton-east
 
 - name: Appleton West
@@ -23,7 +23,7 @@
     - day: Mon.-Fri.
       time: 6:30am - 6:00pm
     - day: Sat.
-      time: Closed
+      time: 7:00am - 12:00pm
   link: /locations/appleton-west
 
 - name: Fond du Lac
@@ -37,7 +37,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: Closed
+      time: 7:00am - 12:00pm
   link: /locations/fond-du-lac
 
 - name: Green Bay
@@ -51,7 +51,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: Closed
+      time: 7:00am - 12:00pm
   link: /locations/green-bay
 
 - name: Menasha
@@ -66,7 +66,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: Closed
+      time: 7:00am - 12:00pm
   link: /locations/menasha
 
 - name: Waupaca
@@ -81,7 +81,7 @@
     - day: Mon.-Fri.
       time: 7:00am - 6:00pm
     - day: Sat.
-      time: Closed
+      time: 7:00am - 12:00pm
   link: /locations/waupaca
 
 - name: Commercial
