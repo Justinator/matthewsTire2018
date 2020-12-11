@@ -1,12 +1,12 @@
 ---
 layout: post
-title: 'Another Successful <em>Oil Change for the Better</em> at Matthews Tire!'
+title: "Another Successful Oil Change for the Better at Matthews Tire!"
 category:
 ---
 
 ![Check Presentation](/img/matthews-check-presentation.jpg)
 
-During the recent *Oil Change for the Better* event, held October 19-24, 2015 at all Matthews Tire™ retail locations, $2,510 was raised for [Golden House](http://www.goldenhousegb.org/)—a program providing safety and support for domestic abuse victims. During *Oil Change for the Better*, Matthews Tire donated $5.00 from every regularly priced oil change to benefit this worthy cause.
+During the recent _Oil Change for the Better_ event, held October 19-24, 2015 at all Matthews Tire™ retail locations, $2,510 was raised for [Golden House](http://www.goldenhousegb.org/)—a program providing safety and support for domestic abuse victims. During _Oil Change for the Better_, Matthews Tire donated $5.00 from every regularly priced oil change to benefit this worthy cause.
 
 “We performed 502 oil changes during the event week,” commented Debbie Duesing, controller at Matthews Tire. “Everyone at Matthews Tire is pleased to help raise awareness about a valuable organization such as Golden House,” she added.
 

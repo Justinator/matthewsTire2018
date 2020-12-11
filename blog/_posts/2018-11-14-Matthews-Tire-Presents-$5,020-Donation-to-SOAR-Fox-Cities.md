@@ -5,11 +5,12 @@ category:
 ---
 
 ![Matthews Tire Presents $5,020 Donation to SOAR Fox Cities](/img/MatthewsTirePresents$5,020DonationtoSOARFoxCities.JPG)
-<p style="font-size: 16px;">SOAR Fox Cities Executive Director Erin Schultz (Right) accepts a $5,020 donation from Matthews Tire President Trevor Rezner (Left).</p>
+
+<p style="font-size: 14px;">SOAR Fox Cities Executive Director Erin Schultz (Right) accepts a $5,020 donation from Matthews Tire President Trevor Rezner (Left).</p>
 
 SOAR Fox Cities Executive Director Erin Schultz recently accepted a $5,020 donation from Matthews Tire after their 13th semi-annual _Oil Change for the Better_ event. The event was held October 22-27, 2018 at all six Matthews Tire locations. For every regular priced oil change performed throughout the week, Matthews Tire pledged to donate $10 to SOAR Fox Cities.
 
-“We receive funding from a variety of sources, such as private donations, but many are sizeable donations from our local business community. Without gifts like this from Matthews Tire, we could not do what we do,” said SOAR Fox Cities Executive Director Erin Schultz. “Thank you to Matthews Tire and everyone who supported _Oil Change for the Better_!”       
+“We receive funding from a variety of sources, such as private donations, but many are sizeable donations from our local business community. Without gifts like this from Matthews Tire, we could not do what we do,” said SOAR Fox Cities Executive Director Erin Schultz. “Thank you to Matthews Tire and everyone who supported _Oil Change for the Better_!”
 
 The donation will help support SOAR Fox Cities programs such as their longstanding summer camp program, Schultz confirmed. Their inclusive camp program is designed to accommodate differing cognitive abilities and fitness levels. It provides campers with unique social skills development opportunities, varied experiences and fun. Camp also provides a much needed respite for the campers’ families and caregivers.
 

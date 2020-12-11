@@ -1,11 +1,12 @@
 {% if page.url != "/" %}
-  {% include top-nav.html %}
+{% include top-nav.html %}
 {% endif %}
 
 <nav class="navbar navbar-main">
   <div class="container">
     <div class="navbar-header">
-      <button type="button" class="navbar-toggle btn btn-primary collapsed" data-toggle="collapse" data-target="#navbar-collapse-1">
+      <button type="button" class="navbar-toggle btn btn-primary collapsed" data-toggle="collapse"
+        data-target="#navbar-collapse-1">
         <span class="sr-only">Toggle navigation</span>
         MENU
       </button>
@@ -14,9 +15,10 @@
 
     <div class="collapse navbar-collapse" id="navbar-collapse-1">
       <ul class="nav navbar-nav navbar-right">
-        <li {% if page.url == "/" %}class="current"{% endif %}><a href="/">Home</a></li>
+        <li {% if page.url == "/" %}class="current" {% endif %}><a href="/">Home</a></li>
         <li class="dropdown">
-          <a href="/service" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Service <span class="caret"></span></a>
+          <a href="/service" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Service
+            <span class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
             <li><a href="/service">General Service</a></li>
             <li><a href="/service/#windshield-replacement">Windshield Replacement</a></li>
@@ -30,13 +32,15 @@
             <li><a href="/service/#air-conditioning-and-heating">AC/Heating</a></li>
           </ul>
         </li>
-        <li {% if page.url contains "/tires" %}class="current"{% endif %}><a href="/tires">Find Tires</a></li>
-        <li {% if page.url contains "/wheels" %}class="current"{% endif %}><a href="/wheels">Wheels</a></li>
+        <li {% if page.url contains "/tires" %}class="current" {% endif %}><a href="/tires">Find Tires</a></li>
+        <li {% if page.url contains "/wheels" %}class="current" {% endif %}><a href="/wheels">Wheels</a></li>
         <li class="visible-xs visible-sm"><a href="/promotions">Promotions</a></li>
-        <li {% if page.url contains "/commercial" %}class="current"{% endif %}><a href="/commercial">Commercial</a></li>
-        <li {% if page.url contains "/blog" %}class="current"{% endif %}><a href="/blog">News & Tips</a></li>
+        <li {% if page.url contains "/commercial" %}class="current" {% endif %}><a href="/commercial">Commercial</a>
+        </li>
+        <li {% if page.url contains "/blog" %}class="current" {% endif %}><a href="/blog">News & Tips</a></li>
         <li class="dropdown">
-          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span class="caret"></span></a>
+          <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About <span
+              class="caret"></span></a>
           <ul class="dropdown-menu" role="menu">
             <li><a href="/about">About Matthews Tire</a></li>
             <li><a href="/locations">Locations and Hours</a></li>

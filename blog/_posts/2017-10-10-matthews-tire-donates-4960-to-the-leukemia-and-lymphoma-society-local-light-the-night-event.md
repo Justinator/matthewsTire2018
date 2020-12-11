@@ -3,8 +3,9 @@ layout: post
 title: "Matthews Tire Donates $4,960 to the Leukemia and Lymphoma Society's local <i>Light the Night</i> Event"
 category:
 ---
+
 ![xyz](/img/matthews-tire-donates-to-light-the-night-event-2017.jpg)
-<small style="font-size:13px;">Matthews Tire Office Administrator Jennifer Brockman (left) and Matthews Tire Controller Debbie Duesing (right) present a $4,960 check to Leukemia and Lymphoma Society’s local <i>Light the Night</i> Campaign Manager Megan Kreuter (middle).</small>
+<small style="font-size:14px;">Matthews Tire Office Administrator Jennifer Brockman (left) and Matthews Tire Controller Debbie Duesing (right) present a $4,960 check to Leukemia and Lymphoma Society’s local <i>Light the Night</i> Campaign Manager Megan Kreuter (middle).</small>
 
 A local representative from the Leukemia and Lymphoma Society recently accepted a $4,960 donation from Matthews Tire. The money was raised during our semi-annual Oil Change for the Better event held September 25-30, 2017 at all six locations. Matthews Tire tallied all regular priced oil changes performed throughout the week and pledged to donate $10 from each oil change to the Leukemia and Lymphoma Society’s <i>Light the Night</i> walk in Appleton.
 
